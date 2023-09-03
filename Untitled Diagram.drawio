@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-09-01T16:33:32.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="A1Iq0Vv0Sx-7qCmGrSq-" version="21.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-03T14:27:25.353Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0" etag="2iCmdR6Ku-WSZw-at66C" version="21.7.2" type="github">
   <diagram name="Page-1" id="2LKbXvPsWbhGsoxqlccB">
     <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s6PQ9e3u82KHjofPZbzT-1" value="CNXH KH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s6PQ9e3u82KHjofPZbzT-1" value="CNXH KH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="150" y="100" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="s6PQ9e3u82KHjofPZbzT-2" value="Nghĩa rộng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s6PQ9e3u82KHjofPZbzT-2" value="Nghĩa rộng" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s6PQ9e3u82KHjofPZbzT-3" value="&lt;div&gt;Nghĩa hẹp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s6PQ9e3u82KHjofPZbzT-3" value="&lt;div&gt;Nghĩa hẹp&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s6PQ9e3u82KHjofPZbzT-4" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="50" width="120" height="80" as="geometry" />
+        <mxCell id="s6PQ9e3u82KHjofPZbzT-4" value="Là ML" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="490" y="170" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
